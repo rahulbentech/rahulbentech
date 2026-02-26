@@ -87,10 +87,4 @@ Currently working as **Senior Software Engineer at UST** in Pune, India, buildin
 
 ---
 
-### 📊 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulbentech&show_icons=true&theme=radical)
-
----
-
 *"Building scalable backend systems is not just about handling load—it's about failing gracefully and recovering faster."*
