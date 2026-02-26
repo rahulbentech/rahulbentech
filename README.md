@@ -39,17 +39,17 @@ Currently seeking **Senior Backend Engineering opportunities in EU** 🇪🇺 (N
 
 ### 💼 Featured Projects
 
-#### 🏨 [hotel-booking-event-system](https://github.com/rahulbentech/hotel-booking-event-system) *(Coming Soon)*
+#### 🏨 [hotel-booking-event-system](https://github.com/rahulbentech/hotel-booking-event-system) 
 Event-driven microservices with Kafka and Spring Boot 3 handling 10K+ events/sec
 - **Tech:** Java 21, Spring Boot 3, Apache Kafka, PostgreSQL, Docker
 - **Features:** Reactive streams, Circuit breakers, Distributed tracing
 
-#### 📦 [product-catalog-api](https://github.com/rahulbentech/product-catalog-api) *(Coming Soon)*
+#### 📦 [product-catalog-api](https://github.com/rahulbentech/product-catalog-api) 
 High-performance REST API with Redis caching and OpenSearch full-text search
 - **Tech:** Java 17, Spring Boot 3, Redis, OpenSearch, PostgreSQL
 - **Features:** Sub-50ms response times, 80%+ test coverage
 
-#### ☸️ [spring-boot-k8s-deployment](https://github.com/rahulbentech/spring-boot-k8s-deployment) *(Coming Soon)*
+#### ☸️ [spring-boot-k8s-deployment](https://github.com/rahulbentech/spring-boot-k8s-deployment) 
 Production-ready Kubernetes deployment with Helm, Terraform, and monitoring
 - **Tech:** Kubernetes, Helm, Terraform, Datadog, AWS EKS
 - **Features:** Zero-downtime deployments, Auto-scaling, Health checks
