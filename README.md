@@ -2,7 +2,7 @@
 
 ## Senior Backend Engineer | Java ☕ Spring Boot 🍃 AWS ☁️
 
-5+ years building event-driven microservices serving **100M+ users globally** with **99.9% uptime**.
+5.5+ years building event-driven microservices serving **100M+ users globally** with **99.9% uptime**.
 
 Currently seeking **Senior Backend Engineering opportunities in EU** 🇪🇺 (Netherlands, Germany, Poland) with visa sponsorship.
 
