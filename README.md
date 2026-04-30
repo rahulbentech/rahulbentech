@@ -1,62 +1,103 @@
 # Rahul Ben
 
-Senior Backend Engineer focused on Java, Spring Boot, Kafka, AWS, and Kubernetes.
+Senior Backend Engineer building scalable distributed systems with Java, Spring Boot, Kafka, AWS, and Kubernetes.
 
-5.5+ years building scalable backend systems across hospitality and financial domains. Experience improving reliability, throughput, and deployment speed in production environments.
+5.5+ years of experience delivering backend platforms across hospitality and financial services. Strong focus on reliability, performance, cloud-native architecture, CI/CD automation, and event-driven systems.
+
+Currently based in Pune, India. Open to relocation opportunities in Europe, Australia, and Singapore (visa sponsorship required).
+
+---
 
 ## Core Expertise
 
-- Java 8/17/21
-- Spring Boot, WebFlux, Security
-- Apache Kafka, Event-Driven Systems
+- Java 8 / 17 / 21
+- Spring Boot, Spring Security, WebFlux
+- Apache Kafka, Event-Driven Architecture
 - PostgreSQL, Redis, OpenSearch
-- AWS (EKS, Lambda, RDS, S3)
-- Docker, Kubernetes, Terraform
-- CI/CD, Observability, Performance Tuning
+- AWS (EKS, Lambda, RDS, S3, EC2)
+- Docker, Kubernetes, Terraform, Helm
+- CI/CD Pipelines
+- Monitoring, Incident Response, Performance Tuning
+
+---
 
 ## Selected Production Impact
 
 - Reduced Kafka processing latency by 30% through partition and consumer optimization
-- Improved throughput by 40% in high-traffic backend services
-- Delivered sub-50ms P99 APIs using Redis caching and query optimization
-- Enabled daily releases by modernizing CI/CD pipelines
-- Supported global systems with 99.9% uptime
+- Improved throughput by 40% in high-traffic backend systems
+- Delivered sub-50ms P99 APIs using Redis caching and query tuning
+- Enabled daily releases through CI/CD modernization
+- Supported production systems with 99.9% uptime
+
+---
 
 ## Featured Projects
 
 ### hotel-booking-event-system
-Event-driven booking platform using Kafka + Spring Boot.
+Scalable booking platform built with Spring Boot and Kafka.
 
 Highlights:
+- Event-driven microservices
 - Idempotent consumers
-- Retry / DLQ strategy
+- Retry / DLQ handling
 - Distributed tracing
 - Load-tested architecture
 
+Repository:
+https://github.com/rahulbentech/hotel-booking-event-system
+
+---
+
 ### product-catalog-api
-Low-latency catalog service using Redis + OpenSearch.
+Low-latency catalog service using Redis and OpenSearch.
 
 Highlights:
-- Caching strategy
 - Search indexing
+- Redis caching strategy
 - API versioning
-- Performance benchmarking
+- Benchmark testing
+- Clean REST architecture
 
-### spring-boot-k8s-platform
-Production-style deployment stack.
+Repository:
+https://github.com/rahulbentech/product-catalog-api
+
+---
+
+### spring-boot-k8s-deployment
+Production-style Kubernetes deployment stack.
 
 Highlights:
 - Helm charts
-- Terraform infra
+- Terraform infrastructure
 - Blue/green rollout
 - Autoscaling
+- Health checks & observability
+
+Repository:
+https://github.com/rahulbentech/spring-boot-k8s-deployment
+
+---
 
 ## Certifications
 
-- AWS Solutions Architect Associate
+- AWS Certified Solutions Architect – Associate
 - Microsoft Generative AI Foundations
+
+---
+
+## Open To
+
+- Senior Backend Engineer
+- Java Backend Engineer
+- Platform Engineer
+- Cloud Backend Engineer
+
+Locations:
+Germany | Netherlands | Ireland | Singapore | Australia
+
+---
 
 ## Contact
 
-LinkedIn: linkedin.com/in/rahul-ben
-Email: rahulbenofficial@gmail.com
+LinkedIn: linkedin.com/in/rahul-ben  
+Email: rahulbencloud@gmail.com
