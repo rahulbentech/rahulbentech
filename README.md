@@ -1,87 +1,62 @@
-# Hi, I'm Rahul Ben 👋
+# Rahul Ben
 
-## Senior Backend Engineer | Java ☕ Spring Boot 🍃 AWS ☁️
+Senior Backend Engineer focused on Java, Spring Boot, Kafka, AWS, and Kubernetes.
 
-5.5+ years building event-driven microservices serving **100M+ users globally** with **99.9% uptime**.
----
+5.5+ years building scalable backend systems across hospitality and financial domains. Experience improving reliability, throughput, and deployment speed in production environments.
 
-### 🔧 Tech Stack
+## Core Expertise
 
-**Languages & Frameworks**  
-`Java 8/17/21` `Spring Boot 3` `Spring WebFlux` `Spring MVC` `Spring Security` `Spring Data JPA`
+- Java 8/17/21
+- Spring Boot, WebFlux, Security
+- Apache Kafka, Event-Driven Systems
+- PostgreSQL, Redis, OpenSearch
+- AWS (EKS, Lambda, RDS, S3)
+- Docker, Kubernetes, Terraform
+- CI/CD, Observability, Performance Tuning
 
-**Messaging & Streaming**  
-`Apache Kafka` `Apache Camel` `RabbitMQ` `Event-Driven Architecture`
+## Selected Production Impact
 
-**Databases**  
-`PostgreSQL` `MongoDB` `Redis` `OpenSearch` `ScyllaDB` 
+- Reduced Kafka processing latency by 30% through partition and consumer optimization
+- Improved throughput by 40% in high-traffic backend services
+- Delivered sub-50ms P99 APIs using Redis caching and query optimization
+- Enabled daily releases by modernizing CI/CD pipelines
+- Supported global systems with 99.9% uptime
 
-**Cloud & DevOps**  
-`AWS (Lambda, EC2, RDS, S3, EKS)` `Docker` `Kubernetes` `Terraform` `Helm` `GitLab CI/CD`
+## Featured Projects
 
-**Testing & Monitoring**  
-`JUnit 5` `Mockito` `SonarQube` `Datadog` `OpenTelemetry` `Prometheus`
+### hotel-booking-event-system
+Event-driven booking platform using Kafka + Spring Boot.
 
----
+Highlights:
+- Idempotent consumers
+- Retry / DLQ strategy
+- Distributed tracing
+- Load-tested architecture
 
-### 🚀 Key Achievements
+### product-catalog-api
+Low-latency catalog service using Redis + OpenSearch.
 
-- 📊 Reduced Kafka event processing latency by **30%** through partition optimization
-- ⚡ Improved API throughput by **40%** via Spring WebFlux reactive programming
-- 🎯 Achieved **sub-50ms P99 response times** with Redis caching strategies
-- 🌍 Served **100M+ users** across 50+ countries with **99.9% uptime**
-- ♻️ Deployed **zero-downtime** Kubernetes clusters on AWS EKS
+Highlights:
+- Caching strategy
+- Search indexing
+- API versioning
+- Performance benchmarking
 
----
+### spring-boot-k8s-platform
+Production-style deployment stack.
 
-### 💼 Featured Projects
+Highlights:
+- Helm charts
+- Terraform infra
+- Blue/green rollout
+- Autoscaling
 
-#### 🏨 [hotel-booking-event-system](https://github.com/rahulbentech/hotel-booking-event-system) 
-Event-driven microservices with Kafka and Spring Boot 3 handling 10K+ events/sec
-- **Tech:** Java 21, Spring Boot 3, Apache Kafka, PostgreSQL, Docker
-- **Features:** Reactive streams, Circuit breakers, Distributed tracing
+## Certifications
 
-#### 📦 [product-catalog-api](https://github.com/rahulbentech/product-catalog-api) 
-High-performance REST API with Redis caching and OpenSearch full-text search
-- **Tech:** Java 17, Spring Boot 3, Redis, OpenSearch, PostgreSQL
-- **Features:** Sub-50ms response times, 80%+ test coverage
+- AWS Solutions Architect Associate
+- Microsoft Generative AI Foundations
 
-#### ☸️ [spring-boot-k8s-deployment](https://github.com/rahulbentech/spring-boot-k8s-deployment) 
-Production-ready Kubernetes deployment with Helm, Terraform, and monitoring
-- **Tech:** Kubernetes, Helm, Terraform, Datadog, AWS EKS
-- **Features:** Zero-downtime deployments, Auto-scaling, Health checks
+## Contact
 
----
-
-### 📜 Certifications
-
-🎓 **AWS Certified Solutions Architect - Associate (SAA-C03)** | February 2026  
-🎓 **Generative AI Foundations** | Microsoft Upgrad | April 2025  
-🎓 **Java Advanced** | LearnTube | November 2024
-
----
-
-### 💬 About Me
-
-Currently working as **Senior Software Engineer at UST** in Pune, India, building hospitality platforms serving 12,000+ properties globally.
-
-**Looking for:** Senior Backend Engineering roles in Netherlands 🇳🇱, Germany 🇩🇪, or Poland 🇵🇱  
-**Available:** May 2026  
-**Visa:** Sponsorship required  
-**Relocation:** Ready to relocate
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-ben)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulbencloud@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahulbentech)
-
-📧 rahulbencloud@gmail.com  
-🔗 [linkedin.com/in/rahul-ben](https://linkedin.com/in/rahul-ben)  
-💼 Open to relocation opportunities in EU
-
----
-
-*"Building scalable backend systems is not just about handling load—it's about failing gracefully and recovering faster."*
+LinkedIn: linkedin.com/in/rahul-ben
+Email: rahulbenofficial@gmail.com
