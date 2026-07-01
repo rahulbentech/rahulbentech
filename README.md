@@ -1,16 +1,14 @@
 # Rahul Ben
-
 Senior Backend Engineer building scalable distributed systems with Java, Spring Boot, Kafka, AWS, and Kubernetes.
 
-5.5+ years of experience delivering backend platforms across hospitality and financial services. Strong focus on reliability, performance, cloud-native architecture, CI/CD automation, and event-driven systems.
+5+ years of experience delivering backend platforms across hospitality and financial services. Strong focus on reliability, performance, cloud-native architecture, CI/CD automation, and event-driven systems.
 
 Currently based in Pune, India. Open to relocation opportunities in Finland | Sweden (visa sponsorship required).
 
 ---
 
 ## Core Expertise
-
-- Java 8 / 17 / 21
+- Java 8 / 17 / 21 / 25
 - Spring Boot, Spring Security, WebFlux
 - Apache Kafka, Event-Driven Architecture
 - PostgreSQL, Redis, OpenSearch
@@ -22,7 +20,6 @@ Currently based in Pune, India. Open to relocation opportunities in Finland | Sw
 ---
 
 ## Selected Production Impact
-
 - Reduced Kafka processing latency by 30% through partition and consumer optimization
 - Improved throughput by 40% in high-traffic backend systems
 - Delivered sub-50ms P99 APIs using Redis caching and query tuning
@@ -43,8 +40,7 @@ Highlights:
 - Distributed tracing
 - Load-tested architecture
 
-Repository:
-https://github.com/rahulbentech/hotel-booking-event-system
+Repository: https://github.com/rahulbentech/hotel-booking-event-system
 
 ---
 
@@ -58,8 +54,7 @@ Highlights:
 - Benchmark testing
 - Clean REST architecture
 
-Repository:
-https://github.com/rahulbentech/product-catalog-api
+Repository: https://github.com/rahulbentech/product-catalog-api
 
 ---
 
@@ -73,20 +68,18 @@ Highlights:
 - Autoscaling
 - Health checks & observability
 
-Repository:
-https://github.com/rahulbentech/spring-boot-k8s-deployment
+Repository: https://github.com/rahulbentech/spring-boot-k8s-deployment
 
 ---
 
 ## Certifications
-
 - AWS Certified Solutions Architect – Associate
 - Microsoft Generative AI Foundations
+- Green Software for Practitioners (Linux Foundation)
 
 ---
 
 ## Open To
-
 - Senior Backend Engineer
 - Java Backend Engineer
 - Platform Engineer
@@ -97,6 +90,5 @@ Locations: Finland | Sweden
 ---
 
 ## Contact
-
-LinkedIn: linkedin.com/in/rahul-ben  
+LinkedIn: linkedin.com/in/rahul-ben
 Email: rahulbencloud@gmail.com
