@@ -4,7 +4,7 @@ Senior Backend Engineer building scalable distributed systems with Java, Spring 
 
 5.5+ years of experience delivering backend platforms across hospitality and financial services. Strong focus on reliability, performance, cloud-native architecture, CI/CD automation, and event-driven systems.
 
-Currently based in Pune, India. Open to relocation opportunities in Europe, Australia, and Singapore (visa sponsorship required).
+Currently based in Pune, India. Open to relocation opportunities in Finland | Sweden (visa sponsorship required).
 
 ---
 
@@ -92,8 +92,7 @@ https://github.com/rahulbentech/spring-boot-k8s-deployment
 - Platform Engineer
 - Cloud Backend Engineer
 
-Locations:
-Germany | Netherlands | Ireland | Singapore | Australia
+Locations: Finland | Sweden
 
 ---
 
