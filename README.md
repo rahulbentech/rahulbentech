@@ -75,7 +75,6 @@ Repository: https://github.com/rahulbentech/spring-boot-k8s-deployment
 ## Certifications
 - AWS Certified Solutions Architect – Associate
 - Microsoft Generative AI Foundations
-- Green Software for Practitioners (Linux Foundation)
 
 ---
 
